@@ -141,8 +141,8 @@
 
 .menu-list-div {
     width:200px;
-    height:342px;
-    position: absolute;
+    height:346px;
+    position: fixed;
     box-shadow: 0 0 2px 0 rgba(0,0,0,.25);
     left: 280px;
     top: 115px;
